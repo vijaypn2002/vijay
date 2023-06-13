@@ -1,0 +1,55 @@
+<<<<<<< HEAD
+p{
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+body{
+    border: 5px solid gray;
+    border-radius: 10px;
+    border-color: grey;
+    font-family: sans-serif;
+    color: black;
+}
+img{
+    margin-bottom: 10px;
+}
+
+=======
+.bg{
+    background-color: yellow;
+    text-align: center;
+}
+.menu{
+    display: inline;
+}
+.main{
+    border-left: 2px solid green;
+    
+    position: relative;
+    left: 200px;
+    bottom: 150px;
+    padding: 10px;
+}
+.contact{
+    text-align: center;
+    position: relative;
+    bottom: 140px;
+}
+.multibox{
+    border: 3px;
+    border-color:green;
+    border-style: dotted;
+    position: relative;
+    left: 1600px;
+    bottom: 700px;
+    width: fit-content;
+    height: fit-content;
+}
+.text{
+    text-align: center;
+}
+.text1{
+    text-align: right;
+}
+>>>>>>> 4639a1b (work)
