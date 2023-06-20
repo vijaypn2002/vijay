@@ -2,7 +2,7 @@
 <html>
     <head>
      <style>
-    div.a p{text-align:justify;
+    div.a p{text-align:center;
     color: aliceblue ;
     background-color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -10,7 +10,7 @@
     margin: 0px 50px 0px 50px;
     font-size: 30px;}
 
-    div.paragraph{text-align:justify;
+    div.paragraph{text-align:inherit;
     margin: 50px 50px 50px 50px;
     border: 20px;
     border: 50px;
@@ -28,23 +28,41 @@
 
     div.section3{display: inline-flex;
     background-color: aquamarine;
-    padding: 50px;}
+    padding: 50px;
+    margin-top: 50px;
+    }
 
     div.imageborderthree{
     border: 2px solid;
-    padding:50px 50px 50px 50px;}
+    }
 
     div.imagebordertwo{ 
     border: 2px solid;
-    padding: 30px;}
+    }
 
     div.imageborderone{border:2px solid;
-    padding: 30px;}
+    }
 
-    a{display: inline-flex;
-    background-color: rgb(188, 132, 58);
-    padding: 50px;
-    margin-top: 700px;}
+    div.about{background-color: rgb(179, 131, 72);
+     }
+     a{
+        text-decoration: none;
+        margin-left: 80px;
+        color: antiquewhite;
+        padding: 100px;
+        }
+        
+     a:hover{
+        background-color: rgb(255, 60, 60);
+        padding: 10px;
+        border-radius: 10px;
+        text-decoration: none;
+        display: inline-flex;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: large;
+        margin-left: 100px;
+        }
+
 
      </style>
     </head>
@@ -78,13 +96,17 @@
         <center><img src="image/download.jpg"><h2>title</h2></center>
         <p>Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
         </div>
-    
-        <a href="">home</a>&nbsp;
-        <a href="">about</a>&nbsp;
-        <a href="">contact</a>&nbsp;
-        <a href="">blog</a>&nbsp;
-        <a href="">profile</a>&nbsp;
-     
+
+         
     </div>
+
+    <div class="about">
+        <a href="">home</a>
+        <a href="">about</a>
+        <a href="">contact</a>
+        <a href="">blog</a>
+        <a href="">profile</a>
+       </div>
+
     </body>
 </html>
