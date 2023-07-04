@@ -1,6 +1,8 @@
-.col-lg{border: 1px solid black;}
-.col-lg-12{border: 1px solid black;}
-.col-lg-4{border: 1px solid black;}
+
+.center-row{
+    background-color: chocolate;
+}
+
 .a{background-color: chocolate;}
 .b{background-color: black;}
 .c{background-color: black;}
@@ -13,7 +15,13 @@
 .j{background-color: black;}
 .k{background-color: chocolate;}
 
-.vj{background-color: chocolate;}
+.last-row{background-color: chocolate;}
 .m{background-color: chocolate;}
-.n{background-color: chocolate;}
-.oo{background-color: rgb(16, 12, 9);}
+
+.o{background-color: rgb(16, 12, 9);
+}
+.third-coloumn-one{background-color: black;}
+.third-coloumn-two{background-color: black;}
+.third-coloumn-three{background-color: black;}
+.third-coloumn-four{background-color: black;}
+.third-coloumn-five{background-color: black;}
