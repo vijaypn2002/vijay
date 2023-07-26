@@ -28,16 +28,18 @@ h1{
 }
 
 .box{
-    padding: 200px;
+    padding: 180px;
+   
 }
 .box h1{
     font-size: 46px;
     color: #23303B;
-    margin-bottom: 30px;
+   
 }
 .box p{
     color: #86858B;
-    margin-bottom: 25px;}
+    
+    }
 
 
 
@@ -49,16 +51,21 @@ h1{
     width: 100%;
 }
 
+.graphic-design h1{margin-top: 200px;}
+
 .graphic-design{
 background-image:url(/images/image-graphic-design.jpg);
 background-size: cover;
 background-position: center;
 }
 
+.photography h1{margin-top: 200px;}
+
+
  .photography{
     background-image: url(/images/image-photography.jpg);
 background-position: center;
-background-position: center;
+background-size: cover;
 }
  
  .emily img{
