@@ -1,0 +1,58 @@
+.firstlogo img{
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+.secondcolimg{
+    background-color: rgb(226, 43, 198);
+}
+
+.firstbox{
+    background-color: rgb(19, 19, 64);
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.firstbox h1{
+    color: aliceblue;margin-top: 20px;
+}
+
+.firstbox h3{
+    color: rgb(226, 43, 198);
+}
+
+.firstbox strong{
+    color: aliceblue;
+}
+
+ .firstbox a{
+    text-decoration: none;
+    outline: none;
+    color: rgb(226, 43, 198);
+    background-color: aliceblue;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   padding-left: 20px;
+   padding-right: 20px;
+    }
+
+    .box{
+        display: block;
+        margin-left: 50%;
+    }
+
+    .secondcol{
+        text-align: center;
+    }
+    .text{
+        margin-top: 100px;
+    }
+
+    .thirdcolimg img{
+        margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
