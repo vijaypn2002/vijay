@@ -8,6 +8,13 @@ display: block;
     background-color: rgb(226, 43, 198);
 }
 
+.secondcolimg a{
+    text-decoration: none;
+    margin-top: auto;
+    margin-left: 50px;
+    color: aliceblue;
+}
+
 .firstbox{
     background-color: rgb(19, 19, 64);
     padding-top: 150px;
@@ -39,6 +46,11 @@ display: block;
    padding-right: 20px;
     }
 
+    .firstbox a:hover{
+        background-color: rgb(226, 43, 198);
+        color: aliceblue;
+      }
+
     .box{
         display: block;
         margin-left: 50%;
@@ -56,3 +68,52 @@ display: block;
     margin-right: auto;
     display: block;
     }
+
+    .readmore a{
+    text-decoration: none;
+    background-color: black;
+    color: aliceblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   padding-left: 20px;
+   padding-right: 20px;
+    }
+
+    .readmore{
+     text-align: center;
+    }
+
+    .readmore a:hover{
+        background-color: rgb(226, 43, 198);
+    color: aliceblue;}
+
+    .parttwo a{
+        text-decoration: none;
+        color:  rgb(226, 43, 198);
+        background-color: aliceblue;
+        padding-top: 5px;
+        padding-bottom: 5px;
+       padding-left: 20px;
+       padding-right: 20px;
+    }
+
+
+    .parttwo a:hover{
+        background-color:  rgb(226, 43, 198);
+    color: aliceblue;}
+
+    .boxtwo{
+        display: block;
+        margin-left: 30%;
+    }
+
+    .back{background-color: rgb(16, 16, 67);}
+
+    .can{margin-right: 20%;}
+
+    .boxtwo h2{color: aliceblue;} 
+
+    .colortwo h2{ color: rgb(226, 43, 198);}
+
+    .boxtwo p{color: aliceblue;}
+
