@@ -112,8 +112,16 @@ display: block;
     .can{margin-right: 20%;}
 
     .boxtwo h2{color: aliceblue;} 
+    .boxtwo p{display: inline-flex;
+    border-radius: 50%;}
 
     .colortwo h2{ color: rgb(226, 43, 198);}
 
     .boxtwo p{color: aliceblue;}
+
+    .whatis{text-align: center;}
+
+    .carausel{background-color: rgb(17, 17, 54);
+    padding-top: 50px;
+    padding-bottom: 50px;}
 
