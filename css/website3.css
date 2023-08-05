@@ -107,22 +107,56 @@ display: block;
         margin-left: 30%;
     }
 
-    .back{background-color: rgb(16, 16, 67);}
 
-    .can{margin-right: 20%;}
+    .back{
+        background-color: rgb(16, 16, 67);
+    }
 
-    .boxtwo h2{color: aliceblue;} 
-    .boxtwo p{display: inline-flex;
-    border-radius: 50%;}
 
-    .colortwo h2{ color: rgb(226, 43, 198);}
+    .can{
+        margin-right: 20%;
+    }
 
-    .boxtwo p{color: aliceblue;}
 
-    .whatis{text-align: center;}
+    .boxtwo h2{
+        color: aliceblue;
+    } 
+
+    .boxtwo p{
+        display: inline-flex;
+    border-radius: 50%;
+    }
+
+    .colortwo h2{
+         color: rgb(226, 43, 198);
+        }
+
+
+    .boxtwo p{
+        color: aliceblue;
+    }
+
+    .whatis{
+        text-align: center;
+    }
+
+    .text-box{
+        background: #fff;
+        box-shadow: #ddd 0px 0px 10px -1px;
+        margin-top: 13px;
+    }
+    
 
     .customer-box{
-        background-color: rgb(14, 14, 70);
+        background: #0c0f38;
+        text-align: left;
+        position: relative;
+        padding: 0px 0px 44px 50px;
+    }
+    
+    .veni{
+        padding-top: 45px;
+        display: inline-block;
     }
 
     .veni h4{
@@ -130,16 +164,62 @@ display: block;
         color: rgb(243, 243, 243);
     }
 
-    .logo img{
-       margin-left: 70%;
-       margin-bottom: 100px;
-       height: auto;
-    }
-
     .veni img{
         margin-top: 50px;
         margin-left: 20px;
     }
-  
 
+   .logo{
+    margin-left: 50%;
+   }
+
+   .logo{
+    padding-right: 10px;
+    float: right;
+}
+
+    .last-one{
+        text-align: center;
+       
+    }
+
+    .last-foot{
+        background-color: #ede5e5;
+    margin-top: 100px;}
    
+    .call h2{
+        display: inline;
+    }
+
+    .email h2{
+        display: inline;
+    }
+
+    .email{
+        margin-right: auto;
+    }
+
+    .free{
+        background-color: #0c0f38;
+        text-align: center;
+        display:block;
+    }
+    .free h3{
+        margin-top: 50px;
+        color: #fff;
+        font-size: 37px;
+        line-height: 55px;
+        font-weight: bold;
+        padding-bottom: 20px;
+        display: block;
+        font-family: 'Baloo Chettan', cursive;
+    }
+    
+    .free p{
+        font-size: 16px;
+    }
+
+    .all{
+       text-align: center;
+       margin-top: 20px;
+    }
