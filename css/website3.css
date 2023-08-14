@@ -23,14 +23,26 @@ display: block;
 
 .firstbox h1{
     color: aliceblue;margin-top: 20px;
+    font-family: 'Baloo Chettan', cursive;
+    font-size: 64px;
+    margin-bottom: 20px;
+    font-weight:bold;
 }
 
 .firstbox h3{
     color: rgb(226, 43, 198);
+    font-family: 'Baloo Chettan', cursive;
+    margin-top: 20px;
+    font-weight:bold;
 }
 
 .firstbox strong{
     color: aliceblue;
+    font-family: 'Baloo Chettan', cursive;
+    font-size: 35px;
+    line-height: 35px;
+    font-weight:bold;
+   
 }
 
  .firstbox a{
@@ -38,13 +50,13 @@ display: block;
     outline: none;
     color: rgb(226, 43, 198);
     background-color: aliceblue;
-    margin-bottom: 10px;
-    margin-top: 20px;
     padding-top: 5px;
     padding-bottom: 5px;
    padding-left: 20px;
    padding-right: 20px;
+   margin-top: 20px;
     }
+
 
     .firstbox a:hover{
         background-color: rgb(226, 43, 198);
@@ -53,22 +65,43 @@ display: block;
 
     .box{
         display: block;
-        margin-left: 50%;
+        float: right;
     }
 
     .secondcol{
         text-align: center;
     }
+
+    .secondcol h1{
+        font-family:'Baloo Chettan', cursive;
+        color: #0c0f38;
+        font-size: 50px;
+        font-weight:bold
+    }
+
+    .secondcol strong{
+        color: rgb(176, 31, 154);
+        font-size: 50px;
+        line-height: 61px;
+        font-weight: bold;
+    }
+
+    .secondcol p{
+        color: #747373;
+        font-size: 17px;
+    }
+    
+
     .text{
         margin-top: 100px;
     }
 
-    .thirdcolimg img{
-        margin-left: auto;
-    margin-right: auto;
+   .thirdcol img{
     display: block;
-    }
-
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   }
     .readmore a{
     text-decoration: none;
     background-color: black;
@@ -102,21 +135,20 @@ display: block;
         background-color:  rgb(226, 43, 198);
     color: aliceblue;}
 
-    .boxtwo{
+    .boxa{
         display: block;
-        margin-left: 30%;
+        float: right;
+        margin-left: 25%;
     }
-
+    .boxtwo h2{
+        font-family: 'Baloo Chettan', cursive;
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
 
     .back{
         background-color: rgb(16, 16, 67);
     }
-
-
-    .can{
-        margin-right: 20%;
-    }
-
 
     .boxtwo h2{
         color: aliceblue;
@@ -125,6 +157,17 @@ display: block;
     .boxtwo p{
         display: inline-flex;
     border-radius: 50%;
+    }
+
+    .can img{
+        width:auto
+    }
+
+    .youcan h4{
+        display: inline;
+    }
+    .gooddesign h4{
+        display: inline;
     }
 
     .colortwo h2{
