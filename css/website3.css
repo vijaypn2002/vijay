@@ -5,13 +5,15 @@ display: block;
 }
 
 .secondcolimg{
-    background-color: rgb(226, 43, 198);
+    background: #da16e6;
 }
 
 .secondcolimg img{
     height: 100%;
    padding-top: 50px;
    padding-bottom: 50px;
+   width: 100%;
+   max-width: 100%;
 }
 
 .secondcolimg a{
@@ -170,12 +172,45 @@ display: block;
       line-height: 28px;
     }
 
-    .can img{
+    .can {
+        font-family: 'Baloo Chettan', cursive;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-bottom: 30px;
+    }
+
+    .can span{
+        font-size: 30px;
+        background: #fff;
+        border-radius: 51px;
+        width: 90px;
+        height: 90px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        color: #de32e9;
+    }
+
+    .can h4{
+        display: inline;
+        margin-left: 20px;
+        color: #fff;
+        font-size: 25px;
+        line-height: 40px;
+        font-weight: 500;
+       
+      
+    }
+    
+
+    .imagecan img{
         width:auto
     }
 
     .youcan h4{
-        display: inline;
+        display:inline-block
     }
 
     
@@ -194,14 +229,38 @@ display: block;
 
     .whatis{
         text-align: center;
+        margin-top: 30px;
     }
+
+    .whatis h1{
+        color:rgb(16, 16, 67);
+        font-size: 56px;
+        font-weight: bold;
+        font-family:  'Baloo Chettan', cursive;
+    }
+
+    .whatis strong{
+        color:  rgb(226, 43, 198);
+        font-size: 56px;
+        font-weight: bold;
+        font-family:  'Baloo Chettan', cursive;
+    }
+
+    .whatis p{
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+
+    
 
     .text-box{
         background: #fff;
         box-shadow: #ddd 0px 0px 10px -1px;
-        margin-top: 13px;
+        margin-top: 50px;
+        margin-bottom: 50px;
     }
     
+
 
     .customer-box{
         background: #0c0f38;
@@ -210,6 +269,7 @@ display: block;
         padding: 0px 0px 44px 50px;
     }
     
+
     .veni{
         padding-top: 45px;
         display: inline-block;
@@ -218,7 +278,9 @@ display: block;
     .veni h4{
         display: inline;
         color: rgb(243, 243, 243);
+       
     }
+
 
     .veni img{
         margin-top: 50px;
@@ -240,7 +302,7 @@ display: block;
     }
 
     .last-foot{
-        background-color: #ede5e5;
+        background-color: #f5f9ff;
     margin-top: 100px;}
    
     .call h2{
@@ -271,11 +333,63 @@ display: block;
         font-family: 'Baloo Chettan', cursive;
     }
     
-    .free p{
+    .free span{
         font-size: 16px;
+        text-align: center;
+        display: inline-block;
+        box-sizing: border-box;
     }
 
     .all{
        text-align: center;
        margin-top: 20px;
+    }
+
+    .last-one h3{
+        color:rgb(16, 16, 67);
+        font-size: 50px;
+        font-weight: bold;
+        font-family:  'Baloo Chettan', cursive;
+    }
+
+    .last-one strong{
+       color:  rgb(226, 43, 198); 
+       font-size: 50px;
+       font-weight: bold;
+       font-family:  'Baloo Chettan', cursive;
+    }
+
+    .call{
+        margin-left:20%
+      
+    }
+
+    .email{
+        margin-right: 5%;
+    }
+
+    .call h2{
+        font-family: 'Baloo Chettan', cursive;
+    font-size: 38px;
+    line-height: 49px;
+    color: #0c0f38;
+    font-weight: bold;
+    }
+
+    .email h2{
+        font-family: 'Baloo Chettan', cursive;
+    font-size: 38px;
+    line-height: 49px;
+    color: #0c0f38;
+    font-weight: bold;
+    }
+
+    .call img{
+        width: 10%;
+        max-width: 100%;
+    }
+
+    .email img{
+        width:10%;
+        max-width: 100%;
     }
