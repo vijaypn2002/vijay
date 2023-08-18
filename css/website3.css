@@ -1,3 +1,4 @@
+
 .firstlogo img{
 margin-left: auto;
 margin-right: auto;
@@ -97,10 +98,11 @@ display: block;
         box-sizing: border-box;
     }
 
-    .secondcol p{
+    .secondcol span{
         color: #747373;
         font-size: 17px;
         font-family: 'Poppins', sans-serif;
+        box-sizing: border-box;
     }
     
 
@@ -264,8 +266,6 @@ display: block;
 
     .customer-box{
         background: #0c0f38;
-        text-align: left;
-        position: relative;
         padding: 0px 0px 44px 50px;
     }
     
@@ -307,15 +307,26 @@ display: block;
    
     .call h2{
         display: inline;
+        margin-top:20px;
+    }
+
+    .call img{
+        margin-bottom: 10px;
     }
 
     .email h2{
         display: inline;
+        margin-top: 20px;
     }
 
     .email{
         margin-right: auto;
     }
+
+    .emial img{
+        margin-bottom:20px;
+    }
+    
 
     .free{
         background-color: #0c0f38;
