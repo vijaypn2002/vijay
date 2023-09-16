@@ -27,5 +27,70 @@ html, body{
 }
 
 .arrowtwo img{
-    background-color: black;
+    background-color: rgb(17, 0, 0);
 }
+
+.ideological h1{
+ font-size: 50px;
+ font-weight: bolder;
+}
+
+.ideological h4{
+    font-weight:900;
+}
+
+.rectangle{
+    background-color: black;
+    z-index:  -1;
+    margin-bottom: -20px;
+    bottom: 100px;
+}
+
+.aboutbok h1{
+    font-weight:bolder
+}
+
+.p{
+
+   border-radius: 90%;
+   width: 40px;
+   height: 40px;
+   background-color: antiquewhite;
+   color: black;
+   text-align: center;
+   font: 32px;
+   
+}
+.p1{
+
+    border-radius: 90%;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(73, 71, 67);
+    color: rgb(255, 245, 245);
+    text-align: center;
+    font: 32px;
+    
+ }
+ .p2{
+
+    border-radius: 90%;
+    width: 40px;
+    height: 40px;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    font: 32px;
+    
+ }
+ .p3{
+
+    border-radius: 90%;
+    width: 40px;
+    height: 40px;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    font: 32px;
+    
+ }
