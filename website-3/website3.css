@@ -1,0 +1,406 @@
+
+.firstlogo img{
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+.secondcolimg{
+    background: #da16e6;
+}
+
+.secondcolimg img{
+    height: 100%;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   width: 100%;
+   max-width: 100%;
+}
+
+.secondcolimg a{
+    text-decoration: none;
+    margin-top: auto;
+    margin-left: 50px;
+    color: aliceblue;
+}
+
+.firstbox{
+    background-color: rgb(19, 19, 64);
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.firstbox h1{
+    color: aliceblue;margin-top: 20px;
+    font-family: 'Baloo Chettan', cursive;
+    font-size: 64px;
+    margin-bottom: 20px;
+    font-weight:bold;
+}
+
+.firstbox h3{
+    color: rgb(226, 43, 198);
+    font-family: 'Baloo Chettan', cursive;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-weight:bold;
+}
+
+.firstbox strong{
+    color: aliceblue;
+    font-family: 'Baloo Chettan', cursive;
+    font-size: 35px;
+    line-height: 35px;
+    font-weight:bold;
+   
+}
+
+ .firstbox a{
+    text-decoration: none;
+    outline: none;
+    color: rgb(226, 43, 198);
+    background-color: aliceblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-top: 20px;
+    }
+
+
+    .firstbox a:hover{
+        background-color: rgb(226, 43, 198);
+        color: aliceblue;
+      }
+
+    .box{
+        display: block;
+        float: right;
+    }
+
+    .secondcol{
+        text-align: center;
+    }
+
+    .secondcol h1{
+        font-family:'Baloo Chettan', cursive;
+        color: #0c0f38;
+        font-size: 50px;
+        font-weight:bold
+    }
+
+    .secondcol strong{
+        color: rgb(176, 31, 154);
+        font-size: 50px;
+        line-height: 61px;
+        font-weight: bold;
+        font-family: 'Baloo Chettan', cursive;
+        box-sizing: border-box;
+    }
+
+    .secondcol span{
+        color: #747373;
+        font-size: 17px;
+        font-family: 'Poppins', sans-serif;
+        box-sizing: border-box;
+    }
+    
+
+    .text{
+        margin-top: 100px;
+    }
+
+   .thirdcol img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: cover;
+    max-width:100%;
+   }
+    .readmore a{
+    text-decoration: none;
+    background-color: black;
+    color: aliceblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   padding-left: 20px;
+   padding-right: 20px;
+    }
+
+    .readmore{
+     text-align: center;
+    }
+
+    .readmore a:hover{
+        background-color: rgb(226, 43, 198);
+    color: aliceblue;}
+
+    .parttwo a{
+        text-decoration: none;
+        color:  rgb(226, 43, 198);
+        background-color: aliceblue;
+        padding-top: 5px;
+        padding-bottom: 5px;
+       padding-left: 20px;
+       padding-right: 20px;
+    }
+
+
+    .parttwo a:hover{
+        background-color:  rgb(226, 43, 198);
+    color: aliceblue;}
+
+    .boxa{
+        display: block;
+        float: right;
+        margin-left: 25%;
+    }
+    .boxtwo h2{
+        font-family: 'Baloo Chettan', cursive;
+        font-size: 50px;
+       
+    }
+
+    .back{
+        background-color: rgb(16, 16, 67);
+    }
+
+    .boxtwo h2{
+        color: aliceblue;
+    } 
+
+    .boxtwo p{
+        font-size: 17px;
+      line-height: 28px;
+    }
+
+    .can {
+        font-family: 'Baloo Chettan', cursive;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-bottom: 30px;
+    }
+
+    .can span{
+        font-size: 30px;
+        background: #fff;
+        border-radius: 51px;
+        width: 90px;
+        height: 90px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        color: #de32e9;
+    }
+
+    .can h4{
+        display: inline;
+        margin-left: 20px;
+        color: #fff;
+        font-size: 25px;
+        line-height: 40px;
+        font-weight: 500;
+       
+      
+    }
+    
+
+    .imagecan img{
+        width:auto
+    }
+
+    .youcan h4{
+        display:inline-block
+    }
+
+    
+    .gooddesign h4{
+        display: inline;
+    }
+
+    .colortwo h2{
+         color: rgb(226, 43, 198);
+        }
+
+
+    .boxtwo p{
+        color: aliceblue;
+    }
+
+    .whatis{
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .whatis h1{
+        color:rgb(16, 16, 67);
+        font-size: 56px;
+        font-weight: bold;
+        font-family:  'Baloo Chettan', cursive;
+    }
+
+    .whatis strong{
+        color:  rgb(226, 43, 198);
+        font-size: 56px;
+        font-weight: bold;
+        font-family:  'Baloo Chettan', cursive;
+    }
+
+    .whatis p{
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+
+    
+
+    .text-box{
+        background: #fff;
+        box-shadow: #ddd 0px 0px 10px -1px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+
+
+    .customer-box{
+        background: #0c0f38;
+        padding: 0px 0px 44px 50px;
+    }
+    
+
+    .veni{
+        padding-top: 45px;
+        display: inline-block;
+    }
+
+    .veni h4{
+        display: inline;
+        color: rgb(243, 243, 243);
+       
+    }
+
+
+    .veni img{
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+
+   .logo{
+    margin-left: 50%;
+   }
+
+   .logo{
+    padding-right: 10px;
+    float: right;
+}
+
+    .last-one{
+        text-align: center;
+       
+    }
+
+    .last-foot{
+        background-color: #f5f9ff;
+    margin-top: 100px;}
+   
+    .call h2{
+        display: inline;
+        margin-top:20px;
+    }
+
+    .call img{
+        margin-bottom: 10px;
+    }
+
+    .email h2{
+        display: inline;
+        margin-top: 20px;
+    }
+
+    .email{
+        margin-right: auto;
+    }
+
+    .emial img{
+        margin-bottom:20px;
+    }
+    
+
+    .free{
+        background-color: #0c0f38;
+        text-align: center;
+        display:block;
+    }
+    .free h3{
+        margin-top: 50px;
+        color: #fff;
+        font-size: 37px;
+        line-height: 55px;
+        font-weight: bold;
+        padding-bottom: 20px;
+        display: block;
+        font-family: 'Baloo Chettan', cursive;
+    }
+    
+    .free span{
+        font-size: 16px;
+        text-align: center;
+        display: inline-block;
+        box-sizing: border-box;
+    }
+
+    .all{
+       text-align: center;
+       margin-top: 20px;
+    }
+
+    .last-one h3{
+        color:rgb(16, 16, 67);
+        font-size: 50px;
+        font-weight: bold;
+        font-family:  'Baloo Chettan', cursive;
+    }
+
+    .last-one strong{
+       color:  rgb(226, 43, 198); 
+       font-size: 50px;
+       font-weight: bold;
+       font-family:  'Baloo Chettan', cursive;
+    }
+
+    .call{
+        margin-left:20%
+      
+    }
+
+    .email{
+        margin-right: 5%;
+    }
+
+    .call h2{
+        font-family: 'Baloo Chettan', cursive;
+    font-size: 38px;
+    line-height: 49px;
+    color: #0c0f38;
+    font-weight: bold;
+    }
+
+    .email h2{
+        font-family: 'Baloo Chettan', cursive;
+    font-size: 38px;
+    line-height: 49px;
+    color: #0c0f38;
+    font-weight: bold;
+    }
+
+    .call img{
+        width: 10%;
+        max-width: 100%;
+    }
+
+    .email img{
+        width:10%;
+        max-width: 100%;
+    }
