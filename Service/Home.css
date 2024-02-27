@@ -21,7 +21,7 @@ body {
 
 /* Home Section */
 .back {
-    background-image: url('/images/pexels-daniel-putzer-633409.jpg'); /* Add your background image path */
+    background-image: url('./images/pexels-daniel-putzer-633409.jpg'); /* Add your background image path */
     background-size: cover;
     background-position: center;
     color: #ffffff; /* White text color */
