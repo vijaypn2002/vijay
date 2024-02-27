@@ -1,0 +1,72 @@
+
+
+.booking-section {
+    padding: 100px 0;
+  }
+  
+  .booking-section .section-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .booking-section .section-description {
+    font-size: 1.2rem;
+    margin-bottom: 40px;
+    color: #555;
+  }
+  
+  .booking-section form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .booking-section form label {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .booking-section form input[type="text"],
+  .booking-section form input[type="email"],
+  .booking-section form input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .booking-section form button {
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .booking-section form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .animated.zoomIn {
+    animation: zoomIn 1s forwards;
+  }
+  
+  @keyframes zoomIn {
+    from {
+      opacity: 0;
+      transform: scale(0.5);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  .last button{
+    background-color: brown;
+    border-radius: 10px;
+    color: aliceblue;
+  }
+  .last button:hover{
+    background-color: #fff;
+    color: brown;
+  }
